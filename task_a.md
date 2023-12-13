@@ -1,3 +1,4 @@
+## Задача A
 ### Условие:
 - Даны две строки
 - С ними можно выполнять следующие операции:
@@ -12,5 +13,5 @@
 - OneEditApart("cat", "cats") // => true
 - OneEditApart("cat", "cast") // => true
 
-#### Решать тут:
+### Решать тут:
 - https://go.dev/play/p/ux8dvs5wU8c
