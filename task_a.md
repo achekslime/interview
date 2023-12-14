@@ -14,4 +14,4 @@
 - OneEditApart("cat", "cast") // => true
 
 ### Решать тут:
-- https://go.dev/play/p/ux8dvs5wU8c
+- https://codeshare.io/8p96kd
